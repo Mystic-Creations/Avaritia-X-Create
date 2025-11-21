@@ -53,5 +53,3 @@ java {
 jar {
     from "LICENSE"
 }
-
-apply from: 'mcreator.gradle'
